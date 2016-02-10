@@ -255,8 +255,8 @@ function create_config( )
     about_text = [[renjer- 
 An advance Administration bot based on yagop/telegram-bot 
 Admins
-@renjer0098
-https://telegram.me/renjer_anti_spam
+@shayan31323
+https://telegram.me/tleparsy_antispam
 ]],
     help_text_realm = [[
 Realm Commands:
